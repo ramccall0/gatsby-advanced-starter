@@ -12166,9 +12166,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"gatsby-remark-copy-linked-files@npm:^5.17.0":
-  version: 5.17.0
-  resolution: "gatsby-remark-copy-linked-files@npm:5.17.0"
+"gatsby-remark-copy-linked-files@npm:^5.25.0":
+  version: 5.25.0
+  resolution: "gatsby-remark-copy-linked-files@npm:5.25.0"
   dependencies:
     "@babel/runtime": ^7.15.4
     cheerio: ^1.0.0-rc.10
@@ -12180,7 +12180,7 @@ __metadata:
     unist-util-visit: ^2.0.3
   peerDependencies:
     gatsby: ^4.0.0-next
-  checksum: 6546068d1d1441e8145c9219d88fe536538d865c4e636eba4d6de5b46931d25bb7a663b003f0548592aab1f7ca2623286e19a9861a3c4e38c8b88a9caae40c1b
+  checksum: 6dac4df2cb13c677f87bb9a077e4a5eaff08dc8dc026faca57d16090d9c8fcdce5c22cb85fbcc62f2ab75ccae9bbf251750338e60b4116830cd975f7b551b656
   languageName: node
   linkType: hard
 
@@ -12506,7 +12506,7 @@ __metadata:
     gatsby-plugin-sitemap: ^5.17.0
     gatsby-plugin-twitter: ^4.17.0
     gatsby-remark-autolink-headers: ^5.17.0
-    gatsby-remark-copy-linked-files: ^5.17.0
+    gatsby-remark-copy-linked-files: ^5.25.0
     gatsby-remark-embed-video: ^3.1.4
     gatsby-remark-images: ^6.17.0
     gatsby-remark-prismjs: ^6.17.0
@@ -12690,7 +12690,7 @@ __metadata:
     gatsby-plugin-styled-components: ^5.17.0
     gatsby-plugin-twitter: ^4.17.0
     gatsby-remark-autolink-headers: ^5.17.0
-    gatsby-remark-copy-linked-files: ^5.17.0
+    gatsby-remark-copy-linked-files: ^5.25.0
     gatsby-remark-embed-video: ^3.1.4
     gatsby-remark-images: ^6.17.0
     gatsby-remark-prismjs: ^6.17.0
